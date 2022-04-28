@@ -12,4 +12,4 @@ This is the second task in LABWEB2
 
 ## Table of Contents:
 ---
-En esta segunda entrega, se hace una calculadora con las oepraciones basicas.
+En esta segunda entrega, se hace una calculadora con las operaciones basicas.
