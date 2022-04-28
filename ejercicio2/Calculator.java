@@ -11,7 +11,9 @@ public class Calculator{
   public int mul(int a, int b){ //Anthony
     return a*b; 
   }
-  public int div(int a, int b){ return 0; }
+  public int div(int a, int b){//Esteven
+    return a/b; 
+  }
   public int mod(int a, int b){ return 0; }
   //Hola
 
